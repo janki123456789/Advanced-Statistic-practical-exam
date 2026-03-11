@@ -4,18 +4,6 @@
 This project focuses on analyzing **employee performance data** using statistical concepts and Python-based analysis.  
 The aim of the project is to understand employee productivity, salary patterns, working hours, and promotion probabilities using descriptive statistics and data analysis techniques.
 
-The project combines **theory concepts** with **practical implementation using Python in Jupyter Notebook**.
-
----
-
-# 🎓 Exam Information
-
-📘 **Exam Type:** Theory + Practical  
-⏳ **Duration:** 6 Hours  
-📂 **Dataset:** employee_performance.csv  
-
----
-
 # 🎯 Project Objective
 
 The main objectives of this project are:
@@ -148,6 +136,7 @@ By combining **statistical theory with practical Python implementation**, we gai
 # 👨‍💻 Author
 
 Janki Dholariya
+
 
 
 
