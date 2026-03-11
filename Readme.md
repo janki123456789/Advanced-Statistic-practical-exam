@@ -28,16 +28,6 @@ The main objectives of this project are:
 
 This project demonstrates how statistical analysis can support **data-driven decision making in organizations**.
 
-
-# 🔗 Dataset Link
-
-Dataset used in this project:
-
-```
-- [employee_performance.csv](./employee_performance.csv)
-
-```
-
 # 📊 Dataset Description
 
 The dataset contains approximately **4000 employee records** with the following fields:
@@ -158,6 +148,7 @@ By combining **statistical theory with practical Python implementation**, we gai
 # 👨‍💻 Author
 
 Janki Dholariya
+
 
 
 
