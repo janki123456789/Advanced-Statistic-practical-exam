@@ -34,7 +34,8 @@ This project demonstrates how statistical analysis can support **data-driven dec
 Dataset used in this project:
 
 ```
-- [employee_performance.xlsx](./employee_performance.xlsx)
+- [employee_performance.csv](./employee_performance.csv)
+
 ```
 
 # 📊 Dataset Description
@@ -157,5 +158,6 @@ By combining **statistical theory with practical Python implementation**, we gai
 # 👨‍💻 Author
 
 Janki Dholariya
+
 
 
